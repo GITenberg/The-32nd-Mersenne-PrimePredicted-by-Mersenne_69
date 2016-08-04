@@ -1,0 +1,27 @@
+_repo: The-32nd-Mersenne-PrimePredicted-by-Mersenne_69
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Slowinski, David
+    gutenberg_agent_id: '52'
+    url: http://www.gutenberg.org/2009/agents/52
+    wikipedia: http://en.wikipedia.org/wiki/David_Slowinski
+description: Math
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '1993-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '69'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Number theory'
+- !lcsh 'Numbers, Prime'
+- !lcc 'QA'
+- GITenberg
+title: 'The 32nd Mersenne Prime
+
+  Predicted by Mersenne'
+url: http://www.gutenberg.org/ebooks/69
